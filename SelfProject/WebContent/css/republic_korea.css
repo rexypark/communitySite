@@ -1,0 +1,112 @@
+@charset "UTF-8";
+
+
+.OUTLINE {
+    stroke-linejoin:round;
+    stroke: #ffffff;
+    stroke-width: 2;
+}
+#CD11 {
+    fill: #f8d0d8;
+}
+#CD26 {
+    fill: #f6c4ce;
+}
+#CD27 {
+    fill: #f4b8c4;
+}
+#CD28 {
+    fill: #f3adbb;
+}
+#CD29 {
+    fill: #f1a1b1;
+}
+#CD30 {
+    fill: #ef95a7;
+}
+#CD31 {
+    fill: #ee8a9e;
+}
+#CD36 {
+    fill: #ec7e94;
+}
+#CD41 {
+    fill: #ea728a;
+}
+#CD42 {
+    fill: #e86680;
+}
+
+#CD43 {
+    fill: #e65b77;
+}
+#CD44 {
+    fill: #e54f6d;
+}
+#CD45 {
+    fill: #e34363;
+}
+#CD46 {
+    fill: #e13759;
+}
+#CD47 {
+    fill: #e02b50;
+}
+#CD48 {
+    fill: #de2046;
+}
+#CD50 {
+    fill: #dc143c;
+}
+#CD11:hover {
+	fill: lightgray;
+}
+#CD26:hover {
+	fill: lightgray;
+}
+#CD27:hover {
+	fill: lightgray;
+}
+#CD28:hover {
+	fill: lightgray;
+}
+#CD29:hover {
+	fill: lightgray;
+}
+#CD30:hover {
+	fill: lightgray;
+}
+#CD31:hover {
+	fill: lightgray;
+}
+#CD36:hover {
+	fill: lightgray;
+}
+#CD41:hover {
+	fill: lightgray;
+}
+#CD42:hover {
+	fill: lightgray;
+}
+
+#CD43:hover {
+	fill: lightgray;
+}
+#CD44:hover {
+	fill: lightgray;
+}
+#CD45:hover {
+	fill: lightgray;
+}
+#CD46:hover {
+	fill: lightgray;
+}
+#CD47:hover {
+	fill: lightgray;
+}
+#CD48:hover {
+	fill: lightgray;
+}
+#CD50:hover {
+	fill: lightgray;
+}
